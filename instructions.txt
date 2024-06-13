@@ -1,0 +1,13 @@
+Basic Git Commands
+    1. git init - creates a empty git repo
+    2. git status - check repo status
+    3. git add - add files/dirs to the stagging area
+    4. git commit - saving our files changes to the local machine
+    5. git push - submitting the local changes to the online repo.(GitHub)
+    *6. git pull - request/fetch changes from the online repo
+    *7. git clone - creates a local copy of your online repo
+    8. git branch - for listing/checking the git branches
+    9. git checkout - for switching between branches
+    *10. git rm - removes files/dirs from the repo
+    11. git merge - git combines two or more branches
+    12. git log - gives commit history
